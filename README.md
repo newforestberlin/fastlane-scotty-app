@@ -1,0 +1,1 @@
+# fastlane-scotty-app
